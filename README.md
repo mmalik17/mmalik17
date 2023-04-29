@@ -1,4 +1,4 @@
-### 👋 Hello World! welcome to my GitHub profile! My name is Muchammad Malik, and you can call me Malik 
+### 👋 Hi, there! welcome to my GitHub profile! My name is Muchammad Malik, and you can call me Malik 
 
 🔭 I'm currently looking for career shift into data science and analytics career field, particularly in business intelligence or data analytics role. I'm passionate to learn tech-related skills and explore new technology to solve real-world problems and creating innovative solutions that make an impact to business or society.
 
