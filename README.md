@@ -2,7 +2,7 @@
 
 🔭 I'm currently looking for career shift into data science and analytics career field, particularly in business intelligence or data analytics role. I'm passionate to learn tech-related skills and explore new technology to solve real-world problems and creating innovative solutions that make an impact to business or society.
 
-🌱 During 3 years of learning, I've worked with several tools and programming language, such as: 
+🌱 During 2 years of learning, I've worked with several tools and programming language, such as: 
 -	Data Analytics: Microsoft Excel, SQL, Python, and Google BigQuery
 -	Data Visualization : Create dashboard with Microsoft Excel, Tableau, Power BI, and Google Data Studio
 -	Web development: Basic HTML, CSS, and Javascript
