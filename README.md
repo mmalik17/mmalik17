@@ -9,8 +9,6 @@
 -	Data pipeline tools: Airflow, Pentaho, Oracle Goldengate 
 -	Google Cloud Platform : BigQuery, Looker Studio, Dataflow, Dataprep, etc
 
-✍ On my GitHub, you'll find a collection of personal projects and contributions to open-source projects that I've worked on. These range from exploratory data analytics, dashboard creation, and machine learning model development. I'm always looking for new challenges and opportunities to collaborate with others on interesting projects.
-
 💬 If you're interested in working together or have any questions about my work, feel free to reach out. 
 
 😄 Thanks for stopping by, and happy coding!
